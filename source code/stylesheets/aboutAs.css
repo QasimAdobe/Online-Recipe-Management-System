@@ -1,0 +1,46 @@
+.header-name{
+     
+    text-align: center;
+    font-family: serif;
+    font-size: 30px;
+  }
+.name-hr {
+    width: 15%;
+    height: 2px;
+    background-color:rgb(0, 4, 255);
+    margin-top: 15px;
+    
+  }
+
+.paragraph1{
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Germania One', cursive; 
+      color: rgb(219, 0, 0);
+  }
+.missionvision p{
+    font-size: 20px;
+  }
+
+  .writing-area{
+
+    width: 64%;
+    height: 90%;
+    float: left;
+    left: 129px;
+    background-color: rgba(138, 133, 133, 0.233);
+    position: absolute;
+    top: 59%;
+}
+.writing-area-text{
+    position: absolute;
+    float: left;
+    left: 218px;
+    top: 75%;
+}
+.name-hr2{
+    color: white;
+}
+p{
+    font-family: sans-serif;
+}

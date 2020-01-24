@@ -1,0 +1,109 @@
+#side-active {
+	background-color: rgba(99, 174, 235, 0.925);
+}
+
+  .active, .side-bar .drop_bt:hover {
+    background-color: rgba(99, 174, 235, 0.479);
+}
+.cat-name{
+  width: 64%;
+  height: 125px;
+  float: left;
+  left: 129px;
+  background-color: rgba(0, 0, 0, 0.342);
+  position: absolute;
+  top: 37%;
+}
+.cat-type{
+    color: white;
+    font-size: 82px;
+    top: -44px;
+    position: relative;
+    font-family:Lato;
+}
+
+.recipes-row1{
+	position: absolute;
+	float: left;
+	margin: 30px;
+	top: 52%;
+	color: white;
+	font-size: 20px;
+	font-family:Lato;
+    left: 90px;
+
+}
+
+.recipes-row2{
+	position: absolute;
+	float: left;
+	margin: 30px;
+	top: 90%;
+	color: white;
+	font-size: 20px;
+	font-family:Lato;
+    left: 90px;
+
+}
+.recipes-row3{
+	position: absolute;
+	float: left;
+	margin: 30px;
+	top: 128%;
+	color: white;
+	font-size: 20px;
+	font-family:Lato;
+    left: 90px;
+
+}
+
+.recipe-image{
+	width: 200px;
+	height: 200px;
+	cursor: pointer;
+}
+
+.recipe1{
+	position: absolute;
+	left: 20px;
+
+}
+
+.recipe2{
+	position: absolute;
+	left: 270px;
+}
+
+.recipe3{
+	position: absolute;
+	left: 520px;
+}
+
+.recipe4{
+	position: absolute;
+	left: 770px;
+}
+
+.recipe5{
+	position: absolute;
+	left: 1020px;
+}
+
+.nameNprice{
+	color: white;
+	cursor: pointer;
+}
+
+.cart_image{
+    width: 50px;
+    height: 50px;
+    float: right;
+    position: relative;
+    top: -57px;
+    left: 7px;
+	cursor: pointer;
+}
+
+a{
+	text-decoration: none;
+}

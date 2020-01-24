@@ -1,0 +1,144 @@
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+}
+
+.section-header{
+	text-align: center;
+	color:rgb(255, 253, 253);
+    font-size: 40px;
+}
+
+.section-main{
+	height: auto;
+	width: auto;
+	border: 20px;
+	padding: auto;
+	margin: auto 300px;
+}
+
+.cart-header {
+    font-weight: bold;
+    font-size: 1.25em;
+    color: rgb(241, 235, 235);
+}
+
+.cart-column {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    margin-right: 1.5em;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+
+.cart-rowHead, .cart-item {
+    display: flex;
+}
+
+
+.cart-item {
+    width: 45%;
+}
+
+.cart-price {
+    width: 20%;
+    font-size: 1.2em;
+    color: rgb(255, 255, 255);
+}
+
+.cart-quantity {
+    width: 35%;
+}
+
+.cart-item-title {
+    color: rgb(235, 226, 226);
+    margin-left: 20%;
+	margin-top: 7%;
+    font-size: 1.2em;
+}
+
+.cart-item-image {
+    width: auto 375px;
+    height: auto 400px;
+    border-radius: 10px;
+}
+
+.btn-danger {
+    color: white;
+    background-color: #EB5757;
+    border: none;
+    font-weight: bold;
+}
+
+.btn-danger:hover {
+    background-color: #CC4C4C;
+}
+
+.cart-quantity-input {
+    height: 34px;
+    width: 50px;
+    border-radius: 5px;
+    border: 1px solid #56CCF2;
+    background-color: #eee;
+    color: #333;
+    padding: 0;
+    text-align: center;
+    font-size: 1.2em;
+    margin-right: 68px;
+    margin-left: 42px;
+}
+
+.cart-total {
+    text-align: end;
+    margin-top: 10px;
+    margin-right: 100px;
+	
+}
+
+.cart-total-title {
+    font-weight: bold;
+    font-size: 2.5em;
+    color: rgba(255, 255, 255, 0.61);
+    margin-right: 20px;
+    
+}
+
+.cart-total-price {
+    color: rgb(255, 255, 255);
+    font-size: 2.1em;
+}
+
+.btn-purchase {
+    display: block;
+    margin: 40px auto 80px auto;
+    font-size: 1.75em;
+	background-color: rgba(8, 0, 255, 0.521);
+	color: rgb(255, 255, 255);
+}
+
+.btn-purchase:hover{
+	background-color: rgb(0, 0, 255);
+}
+
+.body-area{
+    MARGIN-TOP: -27%;
+    position: absolute;
+    WIDTH: 90%;
+    MARGIN-LEFT: -90PX;
+}
+.text-area{
+    width: 64%;
+    height: 777px;
+    float: left;
+    left: 129px;
+    background-color: rgba(65, 65, 65, 0.342);
+    position: absolute;
+    top: 50%;
+  }
+  a{
+      text-decoration: none;
+  }

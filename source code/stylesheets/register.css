@@ -1,0 +1,93 @@
+.reg-form{
+	position:absolute;
+	float:left;
+	left:400px;
+	width:40%;
+	 
+	
+}
+
+label{
+	font-family:30px;
+}
+
+input[type=email],[type=password],[type=date],[type=text], [type=password] select {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 10px 150px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+	
+}
+.gender{
+  margin-left: 240px;
+  font-size: 20px;
+}
+	 
+
+input[type=submit],[type=reset] {
+  width: 100px;
+  background-color: blue;
+  color: black;
+  padding: 5px;
+  margin: 8px;
+  border-radius: 8px;
+  
+}
+
+input[type=submit]:hover {
+  background-color: black;
+
+}
+input[type=reset]:hover {
+  background-color: black;
+}
+
+input[type=radio]{
+  margin-left: -11px;
+}
+
+
+
+.pw_check{
+	display:none;
+	color:red;
+	text-align:center;
+}
+
+.writing-area{
+
+  width: 64%;
+  height: 90%;
+  float: left;
+  left: 80px;
+
+  position: absolute;
+  top: 59%;
+  border-radius: 116px
+}
+.form-header{
+
+  margin-left: 462px;
+}
+.buttns{
+
+margin-left: 150px;
+}
+
+.radiobtn{
+
+  margin-left: 50px;
+}
+.area{
+  background-color: rgba(97, 91, 91, 0.452);
+  border-radius: 116px;
+  width: 34%;
+  height: 84%;
+  float: left;
+  left: 429px;
+  top: 53%;
+  position: absolute;
+}

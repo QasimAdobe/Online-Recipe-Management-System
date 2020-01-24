@@ -1,0 +1,54 @@
+.cat-name{
+    width: 64%;
+    height: 125px;
+    float: left;
+    left: 129px;
+    background-color: rgba(0, 0, 0, 0.342);
+    position: absolute;
+    top: 37%;
+  }
+  .cat-type{
+    color: white;
+    font-size: 82px;
+    top: -44px;
+    position: relative;
+    font-family:Lato;
+}
+  .recipe-contend{
+    width: 64%;
+    height: 100%;
+    float: left;
+    left: 129px;
+    background-color: rgba(0, 0, 0, 0.342);
+    position: absolute;
+    top: 59%;
+  }
+  .item-head{
+    color: white;
+    font-family: sans-serif;
+    margin-left: 16px;
+    margin-top: 33%;
+  }
+
+ .recipe-image{
+    width: 300px;
+    position: absolute;
+    float: right;
+    right: 35%;
+    top: 50px;
+}
+.payment-images{
+  position: absolute;
+}
+.buynow{
+  width: 270px;
+  margin-left: 978px;
+  margin-top: 394px;
+}
+
+.addcart{
+  width: 76px;
+  margin-bottom: 34px;
+  margin-left: -14px;
+  cursor: pointer;
+}

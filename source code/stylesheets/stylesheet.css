@@ -1,0 +1,72 @@
+.img_slideshow{
+  	position: absolute;
+  	left: 60px;
+	top: 348px;
+	width:72%;
+
+}
+.mySlides{
+	width:100%;
+	height:600px;
+
+}
+
+.latest{
+	color: white;
+  position: absolute;
+	top: 105%;
+	left: 39px;
+}
+.fotterup-hr{
+	border: 3px solid white;
+	position: absolute;
+	float: left;
+	left: -2px;
+	width:77.8%;
+	top: 112%;
+
+}
+
+
+.latest_recipes{
+	position: absolute;
+	float: left;
+	margin: 30px;
+	top: 118%;
+	color: white;
+	font-size: 20px;
+	font-family:Lato;
+	cursor: pointer;
+
+}
+.latset-image{
+	width: 300px;
+	height: 300px;
+}
+
+.latset-image1{
+	position: absolute;
+	left: 20px;
+
+}
+
+.latset-image2{
+	position: absolute;
+	left: 370px;
+}
+
+.latset-image3{
+	position: absolute;
+	left: 720px;
+}
+
+.latset-image4{
+	position: absolute;
+	left: 1070px;
+}
+
+.nameNprice{
+	color: white;
+	font-size: 30px;
+	text-decoration: none;
+}

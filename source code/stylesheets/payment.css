@@ -1,0 +1,124 @@
+
+.sidebar-one{
+    width: 501px;
+    height: 546px;
+    background-color: rgba(0, 0, 0, 0.219);
+    float: left;
+    border-radius: 20px;
+    top: -91%;
+    position: absolute;
+    left: 469px;
+}
+.s-one-title{
+    color: blue;
+    font-size: 24px;
+}
+
+
+.sidebar-two img{
+	width: 300px;
+	
+	//background-color: red;
+	margin-top: 400px;
+    margin-left: -470px;
+	text-align: center;
+}
+
+
+label[for="name"],label[for="number"],label[for="date"],label[for="CCV"],label[for="feedback"],label[for="paypal"]{
+	
+	display:  block;
+	text-align: left;
+	width: 200px;
+	font-size: 24px;
+	float: left;
+	clear: left;
+	margin-right: 10px;
+	margin-left: 20px;
+	/*background-color: red;*/
+	cursor: pointer;
+	color: white;
+
+}
+.sidebar-one p input {
+width: 220px;
+height: 25px;
+margin-bottom: 28px;
+}
+.payWith{
+
+margin-left: 8px;
+font-size: 24px;
+}
+
+.choose-name{
+	color: white;
+	font-family: sans-serif;
+	margin-left: 18px;
+	font-size: 24px;
+}
+
+
+.sub-btn{
+	border: none;
+    color: white;
+	background-color: #008cba;
+	text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+	padding: 8px 28px;
+	width: 100px;
+	height: 40px;
+	margin-right: 20px;
+	margin-left: 230px;
+}
+.sub-btn[type="submit"]:hover{
+    
+    cursor: pointer;
+    background: green;
+    color: #000;
+}
+
+.re-btn{
+	border: none;
+    color: white;
+	background-color: #008cba;
+	text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+	padding: 8px 28px;
+	width: 100px;
+	height: 40px;
+	
+}
+
+.re-btn[type="Reset"]:hover{
+    
+    cursor: pointer;
+    background: red;
+    color: #000;
+}
+
+
+
+label span{
+	float: right;
+}
+
+.s-one-title{
+	text-align: center;
+}
+.sidebar-one p input{
+	width: 220px;
+	margin-bottom: 15px;
+}
+
+.text-area{
+
+	position: absolute;
+}
+a{
+	text-decoration: none;
+}

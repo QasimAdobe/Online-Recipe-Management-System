@@ -1,0 +1,149 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url("img/p.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+.sidebar-one{
+	width: 500px;
+	height: 540px;
+	float: left;
+	
+}
+.s-one-title{
+    
+    color: blue;
+}
+.sidebar-two{
+	width: 288px;
+	height: 540px;
+	float: left;
+	text-align: center;
+	margin-left: 74px;
+
+}
+
+.sidebar-two ul li {
+    list-style: none;
+    padding-top: 38px;
+	margin-left: -51px;
+    
+}
+.sidebar-two ul li img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+label[for="name"],label[for="email"],label[for="phone"],label[for="country"],label[for="feedback"]{
+	
+    display: block;
+    text-align: left;
+    width: 346px;
+    float: left;
+    clear: left;
+    margin-right: 18px;
+    margin-left: -101px;
+	
+}
+textarea{
+	width: 220px;
+}
+
+.sub-btn{
+	border: none;
+    color: white;
+	background-color: #008cba;
+	text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	padding: 8px 28px;
+	width: 100px;
+    margin-right: 19px;
+    margin-left: 263px;
+	
+	
+	
+}
+
+.sub-btn[type="submit"]:hover{
+    
+    cursor: pointer;
+    background: green;
+    color: rgb(255, 255, 255);
+}
+
+.re-btn{
+	border: none;
+    color: white;
+	background-color: #008cba;
+	text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+	padding: 8px 28px;
+	width: 100px;
+	
+}
+.re-btn[type="Reset"]:hover{
+    
+    cursor: pointer;
+    background: red;
+    color: #000;
+}
+
+label span{
+	float: right;
+}
+
+.s-one-title{
+	text-align: center;
+}
+.s-two-title{
+    color: red;
+}
+
+.sidebar-one p input{
+	width: 220px;
+	margin-bottom: 15px;
+}
+.all-bar{
+	position: relative;
+	top: -403px;
+	left: 320px;
+	font-size: 30px;
+
+}
+.textbox {
+
+	width: 235px;
+    margin-bottom: 19px;
+    height: 28px;
+}
+#textdrop {
+
+	width: 223px;
+    margin-bottom: 19px;
+    height: 40px;
+}
+#gmail-logo{
+	margin-left: -8px;
+    position: absolute;
+}
+#mail{
+    margin-left: 41px;
+    
+	
+}
+.writing-area{
+
+    width: 64%;
+    height: 90%;
+    float: left;
+    left: 129px;
+    background-color: rgba(99, 95, 95, 0.171);
+    position: absolute;
+    top: 59%;
+}

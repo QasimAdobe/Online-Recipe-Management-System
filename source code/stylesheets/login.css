@@ -1,0 +1,194 @@
+
+
+h1 {
+    color: chartreuse;
+    text-align: center
+}
+
+p {
+    color: chartreuse;
+    text-align: center
+}
+
+
+.user-area {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.356);
+    width: 800;
+    height: 800;
+    float: left;
+    top: 45%;
+    left: 19%;
+    border-radius: 116px
+}
+
+.container {
+    position: absolute;
+    color: blue;
+    right: 800px;
+
+}
+
+.psw {
+    position: absolute;
+    right: 112px;
+    top: 193px;
+    float: right;
+    padding-top: 16px;
+    margin-top: -185px;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.label {
+    font-size: 33px;
+    color: white;
+    font-family: serif;
+
+}
+
+.user-line1 {
+    position: absolute;
+    float: left;
+    left: -109%;
+    top: 30%;
+    margin-left: -266px;
+
+
+}
+
+.user-line2 {
+    position: absolute;
+    float: left;
+    left: -80;
+    top: 30%;
+
+
+}
+
+.user-img {
+    position: absolute;
+    width: 500;
+    float: left;
+    left: 27%;
+    top: 48%;
+
+}
+
+.for {
+    position: absolute;
+    margin-left: 565px;
+    margin-top: -7px;
+    height: auto;
+
+
+}
+
+.password {
+    position: absolute;
+    color: aliceblue margin-top: 10px;
+    margin-left: 542px;
+    width: 148px;
+    height: 16px;
+
+}
+
+
+
+.text {
+    position: absolute;
+    color: blue margin-top: 320;
+    width: 80;
+    height: 23;
+}
+
+.login {
+    position: absolute;
+    color: crimson
+}
+
+
+/* Full-width inputs */
+input[type=text],
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: lightgreen;
+    border-radius: 10px;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    opacity: 0.8;
+    color: black;
+    box-shadow: 5px 5px 5px white;
+}
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+/* Avatar image */
+img.avatar {
+    width: 40%;
+    border-radius: 50%;
+}
+
+/* Add padding to containers */
+.form-div1 {
+    padding: 16px;
+    position: relative;
+    width: 349px;
+    margin-left: 558px;
+    margin-bottom: 2px;
+    margin-top: -56px;
+    font-family: monospace;
+    color: white;
+    font-size: 20px;
+}
+
+.cancelbtn {
+    width: 100%;
+    padding: 10px 18px;
+    background-color: darkred;
+    margin-top: -35px;
+    margin-left:-20px;
+}
+
+#form-class2
+{
+        position: absolute;
+    margin-top: 34px;
+}
+
+.form-div2
+{
+        padding: 16px;
+    position: relative;
+    width: 349px;
+    margin-left: 578px;
+    margin-bottom: -4px;
+}
+#link1
+{
+    color: white;
+    text-decoration: none;
+}
+
+#link1:hover{
+    text-shadow: 2px 2px 10px white;
+}
